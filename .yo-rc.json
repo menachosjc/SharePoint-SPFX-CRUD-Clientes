@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "clientes",
+    "libraryId": "261c7da6-0dbc-44a0-8c90-6e43c498af00",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Clientes",
+    "solutionShortDescription": "Clientes description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
